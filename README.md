@@ -1,4 +1,4 @@
-# Hi there! I'm Iliusi :star: but you can call me :sparkles: Ili :sparkles:
+# Hi! My name is Iliusi :star: but you can call me :sparkles: Ili :sparkles:
 
 ![](Encabezado.jpg)
 
