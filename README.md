@@ -1,6 +1,6 @@
 # Hi there! I'm Iliusi :star: but you can call me :sparkles: Ili :sparkles:
 
-![](Encabezado.jpg )
+![](Encabezado.jpg)
 
 
 ## :point_right: About me:
